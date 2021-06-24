@@ -18,7 +18,7 @@ Steps to follow:
 
 
 1. Create a file called ``rpc.py`` in a directory of your desktop.
-2. Create application through https://discord.dev/
+2. Create an application through https://discord.dev/
 3. Go back to the discord application.
 4. Take the client ID of that application and go to User Settings > Advanced > Application Test Mode and put the ID there.
 5. Open the ``rpc.py``file on any text editor. (VSCode, for example)
