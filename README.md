@@ -1,7 +1,7 @@
 # Custom-Discord-RPC
 This code allows you to make your own Custom RPC (or Rich Custom Presence) even tho it's not a game.
 
-Credit to the original coder. If you are having trouble contact me on Discord: TjMat#4979
+Credit to the original coder. If you are having trouble contact me on Discord: TjMat#0001
 
 I usually don't accept friend requests, so if you want to talk to me just join a server where I'm in so you can DM me:
 
