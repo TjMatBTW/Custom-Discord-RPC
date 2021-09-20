@@ -1,4 +1,4 @@
-# Custom-Discord-RPC
+# Custom Discord Rich Custom Presence (RPC)
 
 ### Code Deprecation Notice [09/20/2021]
 This code is deprecated. Why? No clue. Maybe Discord made changes to their API. It has been 3 months though, of course this code would not work forever. As I'm not the original coder, I won't do changes by now. If you want to fork it and attempt to fix it, you are free to do it. If it works and you submit  PR, I'll merge it.
