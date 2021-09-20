@@ -1,12 +1,12 @@
 # Custom-Discord-RPC
 
-### Notice [09/20/2021]
-This code is deprecated. Why? No clue. Maybe Discord made changes to their API. If you want to fork it and attempt to fix it, you are free to do it. If it works and you submit  PR, I'll merge it.
+### Code Deprecation Notice [09/20/2021]
+This code is deprecated. Why? No clue. Maybe Discord made changes to their API. It has been 3 months though, of course this code would not work forever. As I'm not the original coder, I won't do changes by now. If you want to fork it and attempt to fix it, you are free to do it. If it works and you submit  PR, I'll merge it.
 
 ### Code [DEPRECATED]
 This code allows you to make your own Custom RPC (or Rich Custom Presence) even tho it's not a game.
 
-Credit to the original coder. If you are having trouble contact me on Discord: TjMat#5830
+Credit to the original coder. If you are having trouble contact me on Discord: ``TjMat#5830``
 
 I usually don't accept friend requests, so if you want to talk to me just join a server where I'm in so you can DM me:
 
